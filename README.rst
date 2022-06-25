@@ -49,7 +49,7 @@ Things To-Do
 
 * v1.1.0b
 
-  Uploaded to GitHub. Removed MongoDB feature from this Beta.
+  Uploaded to GitHub. Removed MongoDB and Google TTS features from this Beta.
 
 * v0.0.1b
 
