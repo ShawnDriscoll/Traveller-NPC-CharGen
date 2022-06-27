@@ -40,6 +40,7 @@ Things To-Do
 | Cheat codes.
 |ss|
 
+| Add manual input for die rolls.
 | Put back "some" Traveller 5 stuff that was removed.
 | Start on a To-Do.
 
@@ -47,9 +48,13 @@ Things To-Do
 
 **Known History**
 
+* v1.2.0b
+
+  Added a Manual Input window for die rolling.
+
 * v1.1.0b
 
-  Uploaded to GitHub. Removed MongoDB and Google TTS features from this Beta.
+  Uploaded to GitHub. MongoDB and Google TTS features will not work with this Beta.
 
 * v0.0.1b
 
