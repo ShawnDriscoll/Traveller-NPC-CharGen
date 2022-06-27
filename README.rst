@@ -48,6 +48,10 @@ Things To-Do
 
 **Known History**
 
+* v1.3.0b
+
+  **colorama** is no longer required.
+
 * v1.2.0b
 
   Added a Manual Input window for die rolling.
