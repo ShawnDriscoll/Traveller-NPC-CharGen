@@ -40,6 +40,7 @@ Things To-Do
 | Cheat codes.
 |ss|
 
+| Roll dice at CMD prompt.
 | Add manual input for die rolls.
 | Put back "some" Traveller 5 stuff that was removed.
 | Start on a To-Do.
@@ -47,6 +48,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v1.4.0b
+
+  Dice rolls can now be made at the CMD prompt.
 
 * v1.3.0b
 
