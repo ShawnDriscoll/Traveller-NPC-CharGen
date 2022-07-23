@@ -12,7 +12,7 @@ Mongoose Traveller Second Edition and Traveller 5.10.
 Notes
 -----
 
-**Traveller NPC CharGen** is being developed using Python 3.9.11 and PyQt5.
+**Traveller NPC CharGen** is being developed using Python 3.9.13 and PyQt5.
 
 
 Requirements
@@ -48,6 +48,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v1.4.1b
+
+  Uses pydice for dice rolls now.
 
 * v1.4.0b
 
