@@ -40,6 +40,7 @@ Things To-Do
 | Cheat codes.
 |ss|
 
+| Replace PyDiceroll with new pydice module.
 | Roll dice at CMD prompt.
 | Add manual input for die rolls.
 | Put back "some" Traveller 5 stuff that was removed.
