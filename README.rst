@@ -50,6 +50,10 @@ Things To-Do
 
 **Known History**
 
+* v1.4.2b
+
+  Restored skills back to their original Mongoose Traveller names.
+
 * v1.4.1b
 
   Uses pydice for dice rolls now.
