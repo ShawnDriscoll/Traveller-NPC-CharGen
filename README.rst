@@ -50,6 +50,10 @@ Things To-Do
 
 **Known History**
 
+* v1.5.0b
+
+  Removed the gTTS features from the program.
+
 * v1.4.2b
 
   Restored skills back to their original Mongoose Traveller names.
