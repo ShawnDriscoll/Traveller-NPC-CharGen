@@ -4,7 +4,7 @@
 ===========================
 
 **Traveller NPC CharGen** is a Windows program for generating NPCs, based on rules from
-Mongoose Traveller Second Edition and Traveller 5.10.
+Mongoose Traveller First Edition and Traveller 5.10.
 
 .. figure:: images/app_screen.png
 
