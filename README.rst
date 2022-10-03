@@ -50,6 +50,10 @@ Things To-Do
 
 **Known History**
 
+* v1.5.1b
+
+  Nexus 6 chargen is now 1d6+9 instead of 2d6+3.
+
 * v1.5.0b
 
   Removed the gTTS features from the program.
