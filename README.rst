@@ -12,7 +12,7 @@ Mongoose Traveller First Edition and Traveller 5.10.
 Notes
 -----
 
-**Traveller NPC CharGen** is being developed using Python 3.9.13 and PyQt5.
+**Traveller NPC CharGen** is being developed using Python 3.11.0 and PyQt5.
 
 
 Requirements
@@ -20,7 +20,7 @@ Requirements
 
 * **Windows 10**
 
-  It might not work in OSX or Linux.
+  It has not been tested in Windows 11.
 
 
 Run the .EXE for Windows 10 to start.
@@ -49,6 +49,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v1.6.0b
+
+  Updated to Python 3.11.0.
 
 * v1.5.1b
 
@@ -87,7 +91,7 @@ Things To-Do
   Initial release.
 
 
-The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 - 2022 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises.
+The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 - 2023 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises.
 
 
 Contact
