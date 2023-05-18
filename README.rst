@@ -1,7 +1,7 @@
 	
 
 **Traveller NPC CharGen**
-===========================
+=========================
 
 **Traveller NPC CharGen** is a Windows program for generating NPCs, based on rules from
 Mongoose Traveller First Edition and Traveller 5.10.
@@ -23,7 +23,18 @@ Requirements
   It has not been tested in Windows 11.
 
 
+Executing
+---------
+
 Run the .EXE for Windows 10 to start.
+
+This program generates characters (using brute force) until a character is made that best matches the
+chosen settings. It is possible to get stuck in an infinite loop if the chosen settings are unlikely
+to generate a character. Simply use CTRL+C to exit out of the program.
+
+During chargen, raw CSV and
+JSON files are created in the data folder. The raw files can be used by CSV and JSON readers to mine
+for data. The last character recorded in the raw files will be the one displayed in the app.
 
 .. |ss| raw:: html
 
