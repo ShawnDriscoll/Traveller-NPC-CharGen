@@ -49,6 +49,7 @@ Things To-Do
 
 | Instruction manual.
 | Cheat codes.
+| Iron Man Character Generation.
 |ss|
 
 | Replace PyDiceroll with new pydice module.
@@ -60,6 +61,10 @@ Things To-Do
 |se|
 
 **Known History**
+
+* v1.6.1b
+
+  Tweaked the random name generator a bit.
 
 * v1.6.0b
 
