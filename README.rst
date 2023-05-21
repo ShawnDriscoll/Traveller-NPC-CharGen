@@ -62,6 +62,10 @@ Things To-Do
 
 **Known History**
 
+* v1.6.2b
+
+  Last names can be manually entered now.
+
 * v1.6.1b
 
   Tweaked the random name generator a bit.
