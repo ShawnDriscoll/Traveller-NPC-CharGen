@@ -62,6 +62,10 @@ Things To-Do
 
 **Known History**
 
+* v1.6.3b
+
+  Planets with no trade codes are listed as Unknown now.
+
 * v1.6.2b
 
   Last names can be manually entered now.
