@@ -67,3 +67,9 @@ temp/
 *.spec
 build/
 dist/
+
+
+#####################
+## PyImperial CharGen
+#####################
+Characters/
