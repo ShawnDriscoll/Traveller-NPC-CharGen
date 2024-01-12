@@ -62,6 +62,10 @@ Things To-Do
 
 **Known History**
 
+* v1.8.1b
+
+  DEX, END, and INT buttons weren't connected to any code. They function now.
+
 * v1.8.0b
 
   **Clear Button** removes old Characteristic Modifiers.
