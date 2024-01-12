@@ -62,6 +62,12 @@ Things To-Do
 
 **Known History**
 
+* v1.8.2b
+
+  Fixed TAB order.
+  **New Traveller** button no longer disabled after loading a Traveller.
+  **Clear** (now **Clear All**) button clears everything now.
+
 * v1.8.1b
 
   DEX, END, and INT buttons weren't connected to any code. They function now.
