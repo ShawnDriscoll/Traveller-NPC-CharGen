@@ -5,8 +5,10 @@ First, install the included ERASDEMI, OPTIMA, and T5-9000-Symbols fonts.
 
 To use this program, run the pyimperial_chargen.exe file.
 
+If MongoDB 4.4.5 is detected, characters can be saved in a database.
 
-WARNING: I'm not responsible for any harm caused by using this software for any version of Traveller other than Mongoose Traveller 2nd Edition or Traveller 5.10.
+
+WARNING: I'm not responsible for any harm caused by using this software for any version of Traveller other than Mongoose Traveller 1st Edition or Traveller 5.10.
 
 -Shawn
 shawndriscoll@hotmail.com
