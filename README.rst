@@ -42,6 +42,7 @@ Things To-Do
 | Instruction manual.
 | Cheat codes.
 | Iron Man Character Generation.
+| Continue on character sheet PDF generation.
 
 
 Known History
